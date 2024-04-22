@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OoKkAaYy
-- 👀 I’m interested in coding...
-- 🌱 I’m currently learning python,c++ and java...
+- 👀 Hi, I'm @OoKkAaYy
+- 🌱 Hi, I'm @OoKkAaYy
 
 <!---
 OoKkAaYy/OoKkAaYy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
